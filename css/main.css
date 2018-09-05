@@ -1,0 +1,65 @@
+.nav  {
+	background-color: lightblue;
+}
+.nav li a {
+	color:gray;
+}
+.nav h2 {
+	position: absolute;
+	left:10px;
+}
+.active {
+	background: gray;
+}
+
+
+
+/*3 inkine block divs */
+.block3 img{
+	position: relative;
+	left:25%;
+}
+.block3 h6, p {
+	text-align: center;
+}
+
+
+
+/*RECENT WORKS SECTION*/
+.btn {
+	position: relative;
+	left:42%;
+}
+.bg-success .container .row img{
+	height: 75px;
+	width: auto;
+}
+
+
+/*2 GREY BOX SECTION*/
+.bg-secondary img {
+	max-width: 100%;
+
+}
+
+
+/*RECENT POSTS SECTION*/
+.bg-info button {
+	position: relative;
+	right:-42%;
+}
+
+
+
+/*CONTACT SECTION*/
+.bg-dark input {
+	padding: 0px 200px 0px 0px;
+}
+#input {
+	padding-bottom: 75px;
+}
+
+/*FOOTER SECTION*/
+span {
+	color:yellow;
+}
